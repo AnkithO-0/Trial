@@ -1,3 +1,2 @@
-# Trial
-trying github for the first time :)
-this branch was about frogs....i noe copying bucky aint good.
+# There is nothing special here...
+  this is just a simple trial for branch.
